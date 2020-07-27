@@ -1,0 +1,11 @@
+.vscode
+.idea
+node_modules
+dist
+.ramen_rc
+models
+seeders
+migrations
+index.js
+db
+config_postgres
