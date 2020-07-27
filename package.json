@@ -16,7 +16,9 @@
     "rc": "^1.2.8",
     "sequelize": "^6.3.3",
     "sequelize-cli": "^6.2.0",
-    "telegraf": "^3.38.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
     "typescript": "^3.9.7"
   }
 }
